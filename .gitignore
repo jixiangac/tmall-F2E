@@ -1,0 +1,10 @@
+dea/
+.taprc/
+.DS_Store
+.project
+.dump
+*swp
+*.swp
+*.psd
+/node_modules/
+/public/upload/
